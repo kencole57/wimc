@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.ge.phonegap.example"
+        versionCode="1" 
+        version   = "0.0.1">
+    <name>Where Is My Car</name>
+    <description>
+        Example phonegap app. 
+    </description>
+    <author email="ken.m.cole@gmail.com">
+        Ken Cole
+    </author>
+    <preference name="phonegap-version" value="2.0.0" />
+</widget>
